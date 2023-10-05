@@ -1,0 +1,8 @@
+building_status_id,building_status_description
+1, Normal (no change)
+2, Under Renovation
+3, Under Construction
+4, Under Demolition
+5," Abandoned, vacant (long term)"
+8, Not Applicable
+9, Undetermined

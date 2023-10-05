@@ -1,0 +1,11 @@
+Smoke_Spread_id,Smoke_Spread_description
+10, Spread beyond building of origin
+2, Confined to part of room/area of origin
+3, Spread to entire room of origin
+4," Spread beyond room of origin, same floor"
+5, Multi unit bldg: spread beyond suite of origin but not to separated suite(s)
+6, Multi unit bldg: spread to separate suite(s)
+7," Spread to other floors, confined to building"
+8, Entire Structure
+9, Confined to roof/exterior structure
+99, Undetermined

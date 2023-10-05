@@ -1,0 +1,5 @@
+fa_system_presence_id,fa_system_presence_description
+1,  fire alarm system present
+2, no fire alarm system
+8, not applicable (bldg not classified by obc or detached/semi/town home)
+9, undetermined

@@ -1,0 +1,5 @@
+Sprinkler_System_Presence_id,Sprinkler_System_Presence_description
+1, Full sprinkler system present
+2, Partial sprinkler system present
+3, No sprinkler system
+9, Undetermined

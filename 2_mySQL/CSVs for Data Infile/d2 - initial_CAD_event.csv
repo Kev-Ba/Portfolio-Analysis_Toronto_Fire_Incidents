@@ -1,0 +1,129 @@
+incitial_CAD_event_id,initial_CAD_event_description
+1,Vehicle Fire
+2,Fire - Grass/Rubbish
+3,Fire -  Highrise Residential
+4,Fire - Commercial/Industrial
+5,Fire - Residential
+6,Alarm Highrise Residential
+7,Alarm Commercial/Industrial
+8,Alarm Residential
+9,Fire - Transformer/Pole
+10,Vehicle Fire - Highway
+11,Alarm - Institution - School
+12,Vehicle Accident with Fire
+13,Fire - Institution - School
+14,Fire - Hydro Vault
+15,Fire - Highrise Residential - Downtown
+16,Alarm Highrise Residential Downtown
+17,Fire - Highrise Commercial
+18,Fire - Subway
+19,Hazmat Level 1
+20,Fire - Highrise Commercial - Downtown
+21,Alarm Highrise Commercial
+22,Fire - Other
+23,Check Call
+24,Fire - Institution
+25,Medical - Other
+26,Alarm Highrise - Commercial - Downtown
+27,Fire - Subway - Downtown
+28,Medical - Unconscious
+29,Fire - Outside Storage
+30,Vehicle Fire - Underground
+31,Carbon Monoxide - Non Medical
+32,Alarm Institution Downtown
+33,Alarm Institution
+34,Wires Down - Hydro
+35,Vehicle - Personal Injury Highway
+36,Fire - Alarm Waterfront Highrise
+37,Vehicle - Personal Injury
+38,Vehicle Accident - Trapped
+39,Water Problem
+40,Fire Highrise Residential North
+41,Fire - Encampment
+42,Alarm Single Source
+43,Police Assist
+44,Medical - Trouble Breathing
+45,Island Fire Alarm Response
+46,Natural Gas Fire
+47,Check Call - Non Emergency
+48,Vehicle - Spill Clean Up
+49,Carbon Monoxide - Medical Symptoms
+50,Fire - Institution - Downtown
+51,Vehicle Fire - Highway Elevated
+52,Natural Gas Leak
+53,Fire Waterfront Marina/Industrial
+54,Fire Alarm - Check Call
+55,Vehicle Accident - Trapped - Highway
+56,Hazmat Level 2
+57,Alarm Waterfront Marina/Industrial
+58,Island - Fire Response
+59,VEF
+60,PA
+61,VEFH
+62,FIG
+63,FIR
+64,FIHR
+65,FAHR
+66,FISD
+67,FIHV
+68,FICI
+69,FIHRD
+70,FIHCD
+71,FIWMI
+72,FIO
+73,WDH
+74,FIID
+75,VEFU
+76,FIS
+77,FII
+78,FAHRD
+79,FAHCD
+80,CC
+81,FAR
+82,VEAF
+83,FIIS
+84,FITP
+85,VEPI
+86,FIHC
+87,FAIS
+88,FACI
+89,VEATH
+90,VEPIH
+91,VEAT
+92,MEO
+93,COM
+94,FAI
+95,CONM
+96,MEPI
+97,CCA
+98,FIOS
+99,HAZ1
+100,NGASFI
+101,METB
+102,FACC
+103,ISFI
+104,FIW
+105,PUB
+106,FAHC
+107,NGASLK
+108,LKFI
+109,VEFHE
+110,HAZ2
+111,REHL
+112,FAID
+113,ISFA
+114,FAS
+115,WAT
+116,FAWMI
+117,MESC
+118,MEU
+119,MECR
+120,MECC
+121,Medical -  VSA
+122,Alarms Highrise Residential North
+123,Alarm Subway
+124,Lake Fire Response
+125,Fire Highrise Commercial North
+126,Public Hazard
+127,Fire - Waterfront 
+128,Medical - Assist

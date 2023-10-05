@@ -1,0 +1,12 @@
+smoke_alarm_at_fire_origin_alarm_failure_id,smoke_alarm_at_fire_origin_alarm_failure_description
+1, No battery
+2, Dead battery
+3, Electrical line or battery not connected
+4, Remote from fire – smoke did not reach alarm
+5," Separated from fire (e.g. wall, etc)"
+6, Improper installation of unit
+7, Unit failure
+8, Tampered with (vandalism)
+9, Other reason
+98, Not applicable: Alarm operated OR presence/operation undetermined
+99, Reason for inoperation undetermined

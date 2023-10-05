@@ -1,0 +1,6 @@
+smoke_alarm_at_fire_origin_id.1,smoke_alarm_at_fire_origin_description
+1, Floor/suite of fire origin: No smoke alarm
+2, Floor/suite of fire origin: Smoke alarm present and operated
+3, Floor/suite of fire origin: Smoke alarm present did not operate
+4," Floor/suite of fire origin: Smoke alarm present, operation undetermined"
+9, Floor/suite of fire origin: Smoke alarm presence undetermined

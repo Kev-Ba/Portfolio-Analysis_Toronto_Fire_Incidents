@@ -1,0 +1,13 @@
+Extent_Of_Fire_id,Extent_Of_Fire_description
+1, Confined to object of origin
+10, Spread beyond building of origin
+11," Spread beyond building of origin, resulted in exposure fire(s)"
+2, Confined to part of room/area of origin
+3, Spread to entire room of origin
+4," Spread beyond room of origin, same floor"
+5, Multi unit bldg: spread beyond suite of origin but not to separated suite(s)
+6, Multi unit bldg: spread to separate suite(s)
+7," Spread to other floors, confined to building"
+8, Entire Structure
+9, Confined to roof/exterior structure
+99, Undetermined

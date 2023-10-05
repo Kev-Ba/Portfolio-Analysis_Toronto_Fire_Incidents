@@ -1,0 +1,55 @@
+material_first_ignited_id,material_first_ignited_description
+11, Exterior Roof Covering
+12, Exterior Cladding
+13, Floor
+14, Interior Wall/Ceiling
+15, Structural Member
+16, Insulation
+19, Other Building Component
+21," Upholstered Sofa, Chair, etc."
+22," Non-upholstered Chair, etc."
+23, Cabinetry
+29, Other Furniture
+31," Mattress, Pillow"
+32, Bedding
+33, Linen Other than Bedding
+34, Wearing Apparel on a Person
+35," Curtain, Drapery"
+36," Rug, Carpet"
+39," Other Soft Goods, Wearing Apparel"
+40, Christmas Tree
+41," Books, Magazines, Newspapers"
+42, Cleaning Supplies
+43, Electrical Wiring Insulation
+44," Creosote (chimney, flue pipe)"
+45, Nest
+46," Rubbish, Trash, Waste"
+47, Vehicle
+48, Multiple Objects or Materials
+51," Bush, Grass, Tree, Leaves, etc."
+52," Agricultural Product - Grown (eg. straw, seeds, etc.)"
+53," Agricultural Product - Other (eg pesticide, fertilizer)"
+54, Plastic
+55, Wood
+56," Paper, Cardboard"
+57," Fabric - Natural (eg. cotton, wool, etc.)"
+58," Fabric - Synthetic, Combination"
+59," Asphalt, Tar Product"
+61, Propane
+62, Natural Gas
+69, Other Gases
+71, Gasoline
+72, Diesel Fuel/Fuel Oil
+73, Alcohol (methanol)
+74," Cooking Oil, Grease"
+75," Paint, varnish stored in container"
+79," Other Flammable, Combustible Liquid"
+81," Rubber, not classified above"
+82," Oxidizing material (inc bleach, peroxide)"
+83," Oily rags (inc. paint rags, etc)"
+86, Pyrophoric metals
+87," Other chemicals, materials not classified above"
+96, Multiple diverse objects ignited
+97, Other
+99, Undetermined (formerly 98)
+990, Under Investigation

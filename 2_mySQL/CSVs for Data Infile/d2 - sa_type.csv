@@ -1,0 +1,7 @@
+smoke_alarm_at_fire_origin_alarm_type_id,smoke_alarm_at_fire_origin_alarm_type_description
+1, Battery operated
+2, Hardwired (standalone)
+3, Wireless
+4, Interconnected
+8, Not applicable - no smoke alarm or presence undetermined
+9, Type undetermined

@@ -1,0 +1,8 @@
+bi_id,bi_description
+1, No business interruption
+2, May resume operations within a week
+3, May resume operations within a month
+4, May resume operations within a year
+5, May not resume operations
+8, Not applicable (not a business)
+9, Undetermined

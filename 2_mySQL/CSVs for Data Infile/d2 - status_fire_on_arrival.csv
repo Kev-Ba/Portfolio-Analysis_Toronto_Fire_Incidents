@@ -1,0 +1,9 @@
+Status_of_Fire_On_Arrival_id,Status_of_Fire_On_Arrival_description
+1, Fire extinguished prior to arrival
+2, Fire with no evidence from street
+3," Fire with smoke showing only - including vehicle, outdoor fires"
+4," Flames showing from small area (one storey or less, part of a vehicle, outdoor)"
+5," Flames showing from large area (more than one storey, large area outdoors)"
+7," Fully involved (total structure, vehicle, spreading outdoor fire)"
+8, Exposure involved
+9, Unclassified

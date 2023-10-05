@@ -1,0 +1,5 @@
+fa_system_operation_id,fa_system_operation_description
+1, Fire alarm system operated
+2, Fire alarm system did not operate
+8, Not applicable (no system)
+9, Fire alarm system operation undetermined

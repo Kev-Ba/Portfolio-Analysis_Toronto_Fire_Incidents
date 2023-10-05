@@ -1,0 +1,8 @@
+Smoke_Alarm_Impact_on_Persons_Evacuating_Impact_on_Evacuation_id,Smoke_Alarm_Impact_on_Persons_Evacuating_Impact_on_Evacuation_description
+1, All persons (at risk of injury) self evacuated as a result of hearing alarm
+2, Some persons (at risk) self evacuated as a result of hearing alarm
+3, No one (at risk) evacuated as a result of hearing alarm
+4, Alarm operated but failed to alert occupant(s) (at risk)
+7, Not applicable: Occupant(s) first alerted by other means
+8," Not applicable: No alarm, no persons present"
+9, Undetermined

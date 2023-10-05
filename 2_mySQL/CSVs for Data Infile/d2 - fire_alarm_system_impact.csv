@@ -1,0 +1,8 @@
+﻿fa_system_impact_id,fa_system_impact_description
+1, All persons (at risk of injury) evacuated as a result of hearing fire alarm system
+2, Some persons (at risk) evacuated as a result of hearing fire alarm system
+3, No one (at risk) evacuated as a result of hearing fire alarm system
+4, Fire Alarm system operated but failed to alert occupant(s)
+7, Not applicable: Occupant(s) first alerted by other means
+8," Not applicable: No fire alarm system, no persons present"
+9, Undetermined

@@ -1,0 +1,8 @@
+Sprinkler_System_Operation_id,Sprinkler_System_Operation_description
+1, Sprinkler system activated
+2, Did not activate: remote from fire
+3, Did not activate: fire too small to trigger system
+4, Other reason for non activation/operation
+5, Did not activate: reason unknown
+8, Not applicable - no sprinkler system present
+9, Activation/operation undetermined

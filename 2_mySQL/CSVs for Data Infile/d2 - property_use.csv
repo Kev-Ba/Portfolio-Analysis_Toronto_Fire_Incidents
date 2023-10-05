@@ -1,0 +1,291 @@
+property_use_id,property_use_description
+101, Theatre - Motion Picture
+102," Theatre - Concert Hall, Live"
+103," TV, radio, motion picture studio"
+111, Museum
+112, Art Gallery
+113, Library
+114, Auditorium
+115, Lecture Hall
+121," Bowling Alley, Billiard Centre, pool hall"
+122, Dance Studio
+123, Community/Exhibition/Dance Hall
+124, Sports/Country/Social/Yacht Club
+125, Gymnasium
+126, Non Residential Club
+127, Casino
+128, Bingo Hall
+131, School - Pre-Elementary
+132, School - Elementary
+133, School - Secondary Junior High (Gr. 7 & 8)
+134, School - Secondary/Senior High (Gr. 9+)
+135," School - Technical, Industrial Trade"
+136," School - Business, Commerce, Secretarial"
+137, School - Post Secondary (University)
+138, School - Post Secondary (College)
+142, Bus Terminal
+143, Railway Station
+144, Subway Station
+145, Marine Terminal
+151," Restaurants (occupant load greater than 30 persons, licensed)"
+152," Bar, Tavern, Night Club"
+153," Church, Other Similar Place of Worship"
+154, Funeral Facility
+155, Legislative Facility/Building
+156, Court Facility
+157, Day Care Centre
+158, Church Hall
+161, Arena
+162, Ice Rink
+163, Indoor Swimming Facility
+172, Stadium
+173," Exhibition, Fair Stand, Amusement Park Structure"
+174," Bleacher, Grandstand, Reviewing Stand"
+175, Tent or temporary structure for assembly activity
+199, Other Assembly
+201," Jail, Prison, Penitentiary"
+202, Reformatory (with detention quarters)
+203, Adult Detention Camp (minimum security)
+204, Police Station (with detention quarters)
+206, Psychiatric Hospital (with detention quarters)
+211, Psychiatric Hospital (without detention quarters)
+212, Public/Private Hospital
+216, Convalescent Home or long term care (excluding senior care)
+217, Infirmary
+218, Hospice
+222," Institute for the blind, deaf"
+223," Seniors long term care facility, licensed"
+229, Other care facility
+231, Shelter for displaced/abused persons
+232, Halfway/Transitional House
+233, Group Home
+234, Retirement Home
+299, Other Care & Detention Not Classified
+301, Detached Dwelling
+302, Semi-Detached Dwelling
+303," Attached Dwelling (eg. rowhouse, townhouse, etc.)"
+311, Rooming/Boarding/Lodging House
+321, Multi-Unit Dwelling - 2 to 6 Units
+322, Multi-Unit Dwelling - 7 to 12 Units
+323, Multi-Unit Dwelling - Over 12 Units
+331," Apartment, Flat, Tenement with Business"
+332, Detached Dwelling with Business
+333, Semi-Detached Dwelling with Business
+334, Attached Dwelling with Business
+335, Detached/Semi/Attached with Accessory Apartment Above Grade
+336, Detached/Semi/Attached with Accessory Apartment Below Grade
+341," Motor Home, Camper, Trailer"
+342, Mobile Home
+343, Tent
+344, Houseboat
+355," Hotel, Motel, Lodging - 4 or more guests or suites"
+356," Hotel, Motel, Lodging - Less than 4 guests or suites (inc B&B)"
+361, School/College Dormitory (detached from educational facility)
+365, Detached Garage
+366," Residential Club (inc sorority, fraternity)"
+367, Hostel
+368, Residential Camp
+369," Convent, Monastery"
+399, Other Residential
+401, Bank
+402, Post Office
+403," Barber Shop, Hairdresser, Beauty Parlor, tanning salon"
+404," Laundry, Dry Cleaner (includes self-service)"
+405, General Business Office
+406, Police Station (without detention quarters)
+407, Dental/Medical Office
+408, Animal Hospital
+410, Small Tool/Appliance Rental/Service Establishment
+411, Fire Station
+412," Engineering, Architect or Tech office"
+413," Mailing, photocopying office"
+414," Document centre, record repository (inc archives)"
+415," Computer, electronic data processing, records storage"
+416," Furniture, upholstery repair without sales"
+418, Tent or temporary structure for business or personal service activity
+498, Garage:  General Auto Parking - Structure
+499, Other Business or Personal Services
+501, Restaurant (occupant load less than 30 persons)
+502," Supermarket, Grocery Store"
+503," Specialty Food Store (eg. butcher, delicatessen, etc.)"
+504, Convenience/Variety Store
+505, Liquor/Wine/Beer Store
+506," Market - Outdoors (flowers, fruit, vegetable sales)"
+507," Market - Indoors (flowers, fruit, vegetable sales)"
+510, Mall - public area common to multi store facility
+511, Department Store
+512, Catalogue/Mail Order Outlet
+521," Clothing Store, Accessories, fur"
+522, Fabric Store
+523, Furniture/Appliance Store
+524, Paint/Wallpaper Store
+525, Hardware Store
+526, Building Supply Store
+527, Lumber Yard
+528, Garden Supply
+529, Book/Stationary/Art Supply Store
+530, Pharmacy
+531, Florist
+533, Pet Shop
+534, Video Rental Shop
+535," Computer/electronics store, service or repair"
+537," Rug, floor covering store"
+539," Gifts, jewellery, leather goods, mixed goods"
+541, Tent or temporary structure for Mercantile activity
+543, Big Box Store
+599, Other Mercantile
+601, Motor Vehicle Sales
+602, Service Station
+603, Motor Vehicle Repair Garage
+604," Motor Vehicle Parts, Accessory Sales"
+605, Car Wash
+607," Marina, Marine Service Station"
+609, Other Vehicle Sales/Service
+612, Hydro Distribution Facility
+614, Gas Distribution Facility
+615, Water Works
+617, Sanitary Services (includes plant)
+619, Other Utilities
+620," Heating Plant - central/district heating plant, steam, etc"
+621, Mfg: Petroleum Products
+622," Mfg: Chemicals, inc hazardous chemicals"
+623, Mfg: Plastics
+624," Mfg: Paint, Varnishes, Lacquers"
+625," Mfg: Drugs, Cosmetics, Pharmaceutical"
+626, Mfg: Rubber Goods
+627, Mfg: Asphalt Products
+629, Mfg: Other Chemical/Petroleum/Paint/Plastic Products
+631, Mfg: Meat/Poultry/Fish Products
+633," Mfg: Grain Products, Bakery Goods"
+634, Mfg: Alcoholic Beverages
+637, Mfg: Vegetable/Animal Oil Products
+638," Mfg: Sugar Refining, Sugar Products"
+639," Mfg: Other Agr/Food, Beverage, Tabac products"
+640," Mfg:  Canning, preserving, processing fruits, vegetables"
+641," Mfg: Textile Manufacturing (e.g. preparing fibers, spinning, weaving)"
+644, Mfg: Wearing Apparal Manufacturing
+645, Mfg: Dry Cleaning Plant
+646," Mfg:  Floor covering and coated fabrics (exc rubber, ceramic)"
+649," Mfg: Other Textiles, Clothing, Leather goods"
+651," Mfg: Pulp, Paper Processing"
+652," Mfg: Primary Processing (eg sawmill, plywood manufacturer, etc)"
+653," Mfg: Secondary Processing (eg finished goods, furniture, etc)"
+654," Mfg: Printing, Publishing (eg newspapers, magazines, books)"
+655," Mfg: Job Printing (eg forms, greeting cards, etc)"
+659," Mfg: Other Wood, Furniture, Paper Products, Printing"
+661," Mfg: Road Vehicles, Parts"
+663," Mfg: Watercraft, Parts"
+664," Mfg: Aircraft, Parts"
+665," Specialty Vehicles, Parts"
+669," Mfg: Other Vehicles, Parts"
+671," Mfg: Primary Metal Processing (eg refining, melting, etc)"
+672," Mfg: Secondary Metal Processing (eg rolling, drawing, polishing)"
+673," Mfg: Prec.Goods/Instruments (eg surgical instr, cameras, etc)"
+674," Mfg: Precious Metals, Jewellery"
+676," Mfg: Appliances, Appliance Parts"
+678," Mfg:Glass & glass products, china, pottery"
+679, Mfg: Other Metal/Eletctrical/Miscellaneous Products
+682," Sto: Chemicals, inc hazardous chemicals"
+683, Sto: Plastics
+687, Sto: Asphalt Products
+691," Sto: Tank, Tank Farm, Other Liquids"
+699, Sto: Other Chem/Petroleum/Paint/Plastic Products
+701, Sto: Meat/Poultry/Fish products
+702," Sto: Dairy Goods, Produce"
+703," Sto: Grain Products, Bakery Goods"
+705, Sto: Soft Drinks
+707, Sto: Vegetable/Animal Oil Products
+708," Sto: Sugar Refining, Sugar Products"
+709, Sto: Cold Storage - Processed Food
+716, Sto: Packed food stuffs (not classified by other codes)
+717," Sto: Fertilizers, peat moss"
+719," Sto: Other Agri Products, Food, Beverages, Tobacco, etc"
+721, Sto: Textiles
+723, Sto: Wearing Apparal
+724, Sto: Dry Cleaning Plant
+729, Sto: Other Textile Goods
+731," Sto: Pulp, Paper"
+733," Secondary Products (eg. finished goods, furniture, etc.)"
+735," Sto: Job Printing (eg forms, greeting cards, etc)"
+739," Sto: Other Wood, Furniture, Paper Products, Printing"
+741," Sto: Road Vehicles, Parts"
+742," Sto: Rail Vehicles, Parts"
+745," Sto: Specialty Vehicles, Parts"
+749," Sto: Other Vehicles, Parts"
+752, Sto: Secondary Metal Products
+753, Sto: Precision Goods/Instruments
+759, Sto: Other Metal/Electrical/Misc Parts
+760," Sto: Warehouse, variety of items, not classified by codes"
+761," Sto: Glass & Glass Products, pottery, chinaware"
+769, Sto: Tent or temporary structure for industrial storage
+791, Recycling Facility
+792, Waste Transfer Station
+793, Laboratory
+799, Other Industrial
+801, Mine
+803, Quarry
+812," Bridge, Overpass, Trestle, Tunnel, Underpass"
+821," Radio Transmission Site, Microwave Tower"
+822, Telephone Exchange
+831, Agricultural Products
+832, Processed Food Beverages
+833," Flammable/Combustible Liquids, Gases"
+834," Chemicals, Plastics, Rubber Products"
+835," Textiles, Fibres, Clothing"
+836," Metal Products, Machinery, Appliances"
+837, Vehicles or Vehicle Parts
+838, General Goods
+839, Tent or temporary structure not classified under other occupancy
+841, Mailbox
+842, Fence
+843," Shed, Children's Playhouse"
+844, Privy
+845, Telephone Booth
+846, Hydro/Telephone Pole
+847," Toll Station, Weather/Bus Shelter"
+848, Trash/Rubbish/Garbage Container or Dumpster
+849, Tarpot
+850, Parking Lot Kiosk
+852," Clothing Drop Box, etc."
+853, Gazebo
+854, Sauna - Outdoors
+855, Outbuildings - structure not classified elsewhere
+856, Freestanding deck
+860, Lawn around structure
+861," Open Land (eg. light ground cover, bush, grass, etc.)"
+862," Forest, Standing Timber"
+863," Tree, Hedge"
+864," Dump, Land Fill Site"
+866," Silo, Storage Facility"
+868, Greenhouse
+869," Other farm building (e.g. curing shed, growing facility)"
+870, Barn - containing equipment or produce only
+871, Barn - housing animals
+872," Animal shelter, excluding farm structures"
+890," Composting site (large scale, eg municipal)"
+891, Outdoor general auto parking
+893, Cemetery
+896," Sidewalk, street, roadway, highway, hwy (do not use for fire incidents)"
+897, Structure under 10 sq. metres not classified
+898, Other property non structure not classified
+901, Automobile
+902," Small Truck (eg. pick-up, van, etc.)"
+903, Large Truck (Excluding Truck Trailer)
+904," Trailer Combin. (e.g. auto trailer, small t&t, t&t, etc)"
+905, Motorcycle
+906," Bus, Trackless Trolley"
+907, Emergency Vehicle
+909, Multiple Road Vehicles
+911, Railway Train
+912, Subway Train
+914, Multiple Rail Vehicles
+921, Private or Business Watercraft
+922, Commercial Watercraft
+941, Construction Vehicles
+942, Industrial Vehicles
+943, Agricultural Vehicles
+944, Multiple Specialty Vehicles
+945," Tank truck - Compressed or LP Gas, flammable liquid, chemicals"
+946, Other specialty vehicle
+994, Multiple Vehicles - combination of types
+999, Other Vehicle

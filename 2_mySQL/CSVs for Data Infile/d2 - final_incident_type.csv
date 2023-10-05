@@ -1,0 +1,4 @@
+final_incident_type_id,final_incident_type_description
+1, Fire
+3," NO LOSS OUTDOOR fire (exc: Sus.arson,vandal,child playing,recycling or dump fires)"
+2," Explosion (including during Fire, excluding Codes 3 & 11-13)"
