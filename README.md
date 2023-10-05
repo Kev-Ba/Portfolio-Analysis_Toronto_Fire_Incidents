@@ -4,7 +4,6 @@
 
 
 ## Toronto Fire Incidents
----
 
 ### Analysis Summary
 
